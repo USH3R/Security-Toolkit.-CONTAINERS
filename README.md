@@ -22,7 +22,7 @@ Then, using Bash language, simply type:
 
 💻 Sample Output
 🔐 npm-security-utils Demo
-Running security utility tests...
+Running security utility tests...**
 --------------------------------
 Hash test: 5d2d3ceb7abe552344276d47d36a8175b7aeb250a9bf0bf00e850cd23ecf2e43
 IP check: true
