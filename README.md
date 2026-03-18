@@ -10,3 +10,5 @@
 Open this repository in **GitHub Codespaces** or any terminal.
 Then, using Bash language, simply type:
         bash demo.sh
+
+⚠️ Note: If running locally outside Codespaces, ensure Node.js >= 18 is installed. This demo relies on Node.js to execute.
