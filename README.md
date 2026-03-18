@@ -12,3 +12,10 @@ Then, using Bash language, simply type:
         bash demo.sh
 
 ⚠️ Note: If running locally outside Codespaces, ensure Node.js >= 18 is installed. This demo relies on Node.js to execute.
+
+🛠 Features of Container Package
+✅ Validate IPv4 addresses
+✅ Generate secure hashes
+✅ Check IPs against sample criteria
+✅ Minimal setup: one command to run the demo
+✅ Outputs are clean and JSON-compatible for easy integration into larger workflows
