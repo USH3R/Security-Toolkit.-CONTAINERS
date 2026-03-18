@@ -21,7 +21,8 @@ Then, using Bash language, simply type:
 ✅ Outputs are clean and JSON-compatible for easy integration into larger workflows
 
 💻 Sample Output
-🔐 npm-security-utils Demo
+
+npm-security-utils Demo
 Running security utility tests...**
 --------------------------------
 Hash test: 5d2d3ceb7abe552344276d47d36a8175b7aeb250a9bf0bf00e850cd23ecf2e43
