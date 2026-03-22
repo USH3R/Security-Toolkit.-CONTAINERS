@@ -7,15 +7,25 @@
 ---
 
 ## 🔹 Quick Start / How To
+⚠️ Note: If running locally outside Codespaces, ensure Node.js >= 18 is installed. This demo relies on Node.js to execute.
 
-Open this repository in **GitHub Codespaces** or any terminal.
-Then, using Bash language, simply type:
-        bash demo.sh
+1. Open Codespace (Github) or any terminal and type this:
+         
+         bash demo.sh
+         
+2. Or try the manual executable way (optional):
+   Open Codespace (Github) or any terminal and type this:
+         
+         chmod +x demo.sh
+         
+   Press enter.
+   Then type:
+         
+         ./demo.sh
 
 ⚠️ Note: If running locally outside Codespaces, ensure Node.js >= 18 is installed. This demo relies on Node.js to execute.
 
 🛠 Features of Container Package
-
 ✅ Validate IPv4 addresses
 ✅ Generate secure hashes
 ✅ Check IPs against sample criteria
@@ -32,7 +42,6 @@ IP check: true
 Demo complete.
 
 📂 File Structure
-
 npm-security-utils/
 ├─ demo.sh          # Simple shell script to run the demo
 ├─ utils.js         # Node.js utility functions
@@ -40,7 +49,6 @@ npm-security-utils/
 ├─ README.md        # This file
 
 ⚖️ Legal & Usage Considerations
-
 For educational, testing, and SOC automation purposes only.
 Do not use these utilities on live networks or systems without permission.
 Ensure compliance with federal regulations and corporate policies if using in official environments.
@@ -48,7 +56,6 @@ GitHub Codespaces provides a safe environment to run the demo without impacting 
 This software does not perform offensive operations; it’s intended strictly for validation, analysis, and demo purposes.
 
 📌 Highlights
-
 Designed for speed and simplicity: one command demo.
 Modular utilities can be expanded for more advanced security automation.
 Safe to run in Codespaces with no installation required.
